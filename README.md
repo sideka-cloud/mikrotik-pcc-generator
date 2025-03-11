@@ -1,6 +1,10 @@
 # mikrotik-pcc-generator
 MikroTik v7 LB PCC Generator
 
+Clone repository
+
+- `git clone https://github.com/sideka-cloud/mikrotik-pcc-generator.git && cd mikrotik-pcc-generator`
+
 Build image
 
 - `docker build -t mikrotik .`
