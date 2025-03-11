@@ -1,0 +1,55 @@
+body {
+    background-color: #dbdbdb !important;
+    font-family: Arial, sans-serif;
+    margin: 15px !important;
+}
+
+.container {
+    max-width: 950px !important;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    text-align: center;
+    color: #007bff;
+}
+
+.script-box {
+    background-color: #272822;
+    color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    white-space: pre-wrap;
+    max-height: 390px;
+}
+
+.btn {
+    font-size: 16px;
+}
+
+.home-link {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Keep the original text color */
+}
+
+.home-link:hover {
+  color: #007bff; /* Change color on hover (blue) */
+}
+
+.mt-4 {
+    margin-top: 1rem !important;
+}
+
+.h6, h6 {
+    font-size: .8rem !important;
+}
+
+.h4, h4 {
+    font-size: calc(1rem + .3vw) !important;
+}
